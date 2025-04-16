@@ -18,6 +18,7 @@
   "homepage": "https://github.com/nurhhafizah/berr2243-25#readme",
   "description": "",
   "dependencies": {
+    "mongo": "^0.1.0",
     "mongodb": "^6.15.0"
   }
 }
